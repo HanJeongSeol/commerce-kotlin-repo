@@ -40,3 +40,6 @@ data
 
 ### Java Reference Files ###
 reference/
+
+### Serena MCP ###
+.serena/
