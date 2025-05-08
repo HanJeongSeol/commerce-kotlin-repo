@@ -37,3 +37,6 @@ out/
 .vscode/
 
 data
+
+### Java Reference Files ###
+reference/
